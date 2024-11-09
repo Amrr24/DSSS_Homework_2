@@ -1,0 +1,1 @@
+# This project doesn't have external dependencies, so requirements.txt is empty
